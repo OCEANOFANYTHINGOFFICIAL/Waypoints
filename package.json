@@ -25,7 +25,7 @@
     "gulp-footer": "^1.0.5",
     "gulp-header": "^1.0.2",
     "gulp-rename": "^1.2.0",
-    "gulp-tap": "^0.1.1",
+    "gulp-tap": "^0.4.0",
     "gulp-uglify": "^0.3.1",
     "merge-stream": "^0.1.1",
     "testem": "0.6.24"

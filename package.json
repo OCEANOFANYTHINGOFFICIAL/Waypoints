@@ -19,7 +19,7 @@
   ],
   "devDependencies": {
     "eslint": "^0.6.2",
-    "gulp": "^3.6.2",
+    "gulp": "^4.0.0",
     "gulp-concat": "^2.2.0",
     "gulp-eslint": "^0.1.7",
     "gulp-footer": "^1.0.5",
